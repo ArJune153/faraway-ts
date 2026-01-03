@@ -19,11 +19,11 @@
   </div>
   </div>
 
-     <div class="newyear-promo-con">
+     <!-- <div class="newyear-promo-con">
       <div class="newyear-promo" >
           <img :src="require('@/assets/photo_6201835310191152211_y.jpg')"/>
       </div>
-    </div>
+    </div> -->
 
     <span class="text4">🔥เปอร์เซ็นต์เกมแตกสูง</span>
         <div class="card-container">
